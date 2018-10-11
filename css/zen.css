@@ -1,0 +1,25 @@
+#zen{
+	width:937px;
+	height:591px;
+}
+
+#topview{
+	width:1000px;
+	height:671px;
+}
+
+#sectionview{
+	width:1000px;
+	height:765px;
+}
+
+#frontview{
+	width:1000px;
+	height:641px;
+}
+p{
+	font-family: 'Roboto Slab', serif;
+	color:#5D5D5F;
+	padding:20px;
+}
+

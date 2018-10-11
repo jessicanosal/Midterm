@@ -1,0 +1,25 @@
+div p {
+	font-family:'Roboto Slab', serif;
+	font-size:20px;
+	color:#5D5D5F;
+}
+
+.bio{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left:250px;
+	padding-right:250px;	
+	justify-content: center;
+}
+
+.bioPhoto{
+	width: 431px;
+	height:369px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	border: 10px solid rgb(118, 53, 104,0.5);
+	object-fit: contain;
+	padding: 15px;
+	
+}

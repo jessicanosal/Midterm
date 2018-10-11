@@ -1,0 +1,26 @@
+#theater{
+	width:600px;
+	height:400px;
+}
+
+#topview{
+	width:500px;
+	height:688px;
+}
+
+#sectionview{
+	width:1000px;
+	height:508px;
+}
+
+#frontview{
+	width:1000px;
+	height:597px;
+}
+
+p{
+	font-family: 'Roboto Slab', serif;
+	color:#5D5D5F;
+	padding:20px;
+}
+
